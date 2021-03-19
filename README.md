@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+# Foodie - an e-commerce store
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Overview
 
-## Available Scripts
+Foodie is made with React, Styled Components and deployed to Firebase hosting
 
-In the project directory, you can run:
+### Description
 
-### `npm start`
+This app mimic an e-commerce experience and it is interactive and responsive. It allows the user to browse the items and check their details. Add or removes items from/to the cart. This app was built to showcase my simple design and to demonstrate how I use hooks especially the useReducer hook. The app isn’t finished yet but you can check Todos section below to see what might come next.
+/Note: All the data is coming form a _local_ data file./
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Built With
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- React
+- React Icons
+- Styled Components
+- React Router DOM
 
-### `npm test`
+### Hooks
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- useState
+- useEffect
+- useContext
+- useParams
+- Custom hooks
 
-### `npm run build`
+### State Management
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- useReducer
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Images
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![items and categories](https://dl.airtable.com/.attachmentThumbnails/971b0db210dd0dab18f3747edefd9a06/e6683b60)
+![sponsored post](https://dl.airtable.com/.attachmentThumbnails/7ecbe620d6e042585c1f85a006e31201/a7a0ce42)
+![products details](https://dl.airtable.com/.attachmentThumbnails/97ffd5df9b9b9afaed57f51d8e312a56/024aefeb)
+![nav on scroll](https://dl.airtable.com/.attachments/1a88d422f3c21dee7fde098de6ab517e/8bef3de2/navonscroll.gif)
+![total](https://dl.airtable.com/.attachmentThumbnails/f73595a3b0ec3a07bf0cb27c3e47a521/1f6db1f3)
+![empty](https://dl.airtable.com/.attachmentThumbnails/838b4abb1fbd05501fc56e67cf4d186a/d188b11a)
+![responsive nav](https://dl.airtable.com/.attachments/73b01d47e9a649c370327c0e093e829c/1d4ea628/responsivenavbar.gif)
 
-### `npm run eject`
+### Todos
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- Authentication
+- Create a menu item
+- Code refactoring
+  - Reducers and actions will move to their own files
+- Filtering and sorting items
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Contact
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+[Email me](mailto:meshari@meshariabid.com?subject=[GitHub]) \
+[Portfolio](https://meshariabid.com/)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### Links
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[Live](https://onlinestore-71938.web.app) \
+[Source Code](https://github.com/FyerBall/Foodie)
