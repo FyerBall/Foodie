@@ -1,3 +1,8 @@
+### Links
+
+[Live](https://onlinestore-71938.web.app) \
+[Source Code](https://github.com/FyerBall/Foodie)
+
 # Foodie - an e-commerce store
 
 ### Overview
@@ -51,7 +56,4 @@ This app mimic an e-commerce experience and it is interactive and responsive. It
 [Email me](mailto:meshari@meshariabid.com?subject=[GitHub]) \
 [Portfolio](https://meshariabid.com/)
 
-### Links
 
-[Live](https://onlinestore-71938.web.app) \
-[Source Code](https://github.com/FyerBall/Foodie)
